@@ -1,0 +1,22 @@
+IG_UI_FR = {
+	IGUI_VehicleName87buickRegalTurboT = "'87 Buick Regal Turbo T",
+	IGUI_VehicleName87buickRegalTurboTfbi = "'87 Buick Regal Turbo T FBI",
+	IGUI_VehicleName87buickRegalGNX = "'87 Buick Regal GNX",
+
+	IGUI_VehiclePartGNX87BumperFront = "Pare-choc Avant",
+	IGUI_VehiclePartGNX87BumperRear = "Pare-choc Arrière",
+	IGUI_VehiclePartGNX87SpareTire = "Roue de Secours",
+
+	IGUI_VehiclePartGNX87WindshieldArmor = "Blindage de Pare-Brise",
+	IGUI_VehiclePartGNX87WindshieldRearArmor = "Blindage de Pare-Brise Arrière",
+	IGUI_VehiclePartGNX87FrontLeftArmor = "Blindage de Vitre Avant Gauche",
+	IGUI_VehiclePartGNX87FrontRightArmor = "Blindage de Vitre Avant Droite",
+	IGUI_VehiclePartGNX87RearLeftArmor = "Blindage de Vitre Arrière Gauche",
+	IGUI_VehiclePartGNX87RearRightArmor = "Blindage de Vitre Arrière Droite",
+
+	IGUI_VehiclePartGNX87Trunk = "Coffre",
+	IGUI_VehiclePartGNX87Roofrack = "Porte-Bagages",
+	IGUI_VehiclePartGNX87Gunrack = "Râtelier d'Armes",
+	IGUI_VehiclePartGNX87Spoiler = "Aileron",
+	IGUI_VehiclePartGNX87FrontLip = "Lèvre Avant",
+}
